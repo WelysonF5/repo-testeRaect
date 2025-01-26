@@ -39,3 +39,4 @@ Depois de seguir os passos acima, você pode iniciar o servidor de desenvolvimen
 
 ```bash
 npm start
+```
