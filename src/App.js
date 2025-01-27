@@ -1,5 +1,5 @@
-//import {logo} from './logo.svg';
-import logo from '../build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg';
+import {logo} from './logo.svg';
+//import logo from '../build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg';
 import './App.css';
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={{logo}} className="App-logo" alt="logo" />
         <p>
-          Teste de Manipulação da Ferramenta React PASSO A PASSO
+          Teste de Construção de Interface!
         </p>
         <a
           className="App-link"
