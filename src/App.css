@@ -3,13 +3,23 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 70vmin;
+  width: 70vmin;
   pointer-events: none;
+  border-radius: 50%;
+  /* background: linear-gradient(45deg, #61dafb, #21a1f1, #61dafb); */
+  /* background-size: 200% 200%;
+  animation: App-logo-spin infinite 20s linear, gradiente 5s infinite; */
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 20s linear, piscando 10s infinite;
+    /* width: 60vmin;
+    height: 100px;
+    background-size: 200% 200%;
+    background: linear-gradient(45deg, #ff0000, #ff7f00, #ffff00, #ff0000);
+    background-clip: padding-box; */
   }
 }
 
@@ -36,3 +46,15 @@
     transform: rotate(360deg);
   }
 }
+
+/* @keyframes gradiente {
+  0% {
+  background-position: 0% 50%;  
+  }
+  50% {
+    background-position: 100% 50%;  
+  }
+  100% {
+    background-position: 0% 50%;  
+  }
+} */

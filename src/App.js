@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Teste de Construção de Interface!
+          Teste de Construção de Interface funciona!
         </p>
         <a
           className="App-link"
