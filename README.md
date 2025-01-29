@@ -1,4 +1,3 @@
-https://welysonf5.github.io/repo-testeRaect/
 
 TESTE DE CRIAÇÃO, ENVIO E FUNCIONAMENTO DE PROJETO REACT POR PROMPT DE COMANDO E TERMINAL VSC:
 ================================================================================================
