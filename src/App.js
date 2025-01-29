@@ -1,5 +1,5 @@
-//import logo from './logo.svg';
-import logo from './logo192.png';
+import logo from './logo.svg';
+//import logo from './logo.png';
 import './App.css';
 //teste de atualização do repoGH 09
 function App() {
